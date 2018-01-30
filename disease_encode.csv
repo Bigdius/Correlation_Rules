@@ -1,0 +1,148 @@
+index,Ailment_Description
+0,Abdomen/Pelvis Symptons
+1,Abn Histol/Immuno Results
+2,Abnormal Blood Findings
+3,Abnormal Findings
+4,Abnormal Findings - Body Fluids
+5,Abnormal Findings - Body Structure
+6,Abnormal Test Results
+7,Abnormal Urine Findings
+8,Acute Respiratory Infections
+9,Alcohol Dependence
+10,Alcoholic Psychoses
+11,"Arteries,Arteroles & Capillaries Diseases"
+12,Arthropathies & Related Disorders
+13,Asphyxia
+14,Benign Neoplasms
+15,Burns
+16,Cachexia
+17,Carcinoma in Situ
+18,Cataplexy & Narcolepsy
+19,Cataract
+20,Central Nervous System Diseases - Hereditary & Degenerative
+21,Central Nervous System Diseases - Inflammatory
+22,Cerebrovascular Disease
+23,Cert.Conditions of Perinatal Period
+24,Coma and Stupor
+25,"Complication of Pregnancy,Chldbirth"
+26,Congenital Anomalies
+27,Convulsions
+28,Crushing Injury
+29,Diabetes
+30,Diseases of Blood/Blood-Forming Organs
+31,Diseases of Endocrine Glands (excl Thyroid)
+32,Diseases of Genitourinary System
+33,Diseases of Male Genital Organs
+34,Diseases of Musculoskeletal System
+35,Diseases of Skin & Subcutaneous
+36,Diseases of the Circulatory System
+37,Diseases of the Digestive System
+38,Diseases of the Nervous system
+39,Diseases of the Respiratory System
+40,Diseases of the Skin & Subcutaneaous Tissue
+41,Dislocation
+42,Dizziness/Giddiness
+43,Dorsopathies
+44,Drug Dependence/Abuse
+45,Drug Psychoses
+46,Eating Disorders
+47,Effects of Foreign Body
+48,Epilepsy
+49,Ext. causes of Injury & Poisoning
+50,External Cause of Injury/Poisoning
+51,Factors Influencing Health Status
+52,Female Genital Tract Disorders
+53,Fracture of Lower Limb
+54,Fracture of Skull
+55,Fracture of Spine & Trunk
+56,Fracture of Upper Limb
+57,Gastro Intestinal Symptons
+58,General Dental Symptons
+59,General Symptoms
+60,Glaucoma
+61,Hallucinations
+62,Head/Neck Symptons
+63,"Heart Disease (excl Hypertensive,Ischaemic,Pulmonary)"
+64,Heavy Sweating
+65,Hemiplegia
+66,Hernia of Abdominal Cavity
+67,Hypertensive Disease
+68,Ill-Def Morbidity/Mortality
+69,Ill-Defined Conditions NEC
+70,Infectious & Parasitic Diseases
+71,Inflammatory Disease of Female Pelvic Organs
+72,Injury & Poisoning
+73,Injury to Nerves & Spinal Cord
+74,"Internal injury of Chest, Abdomen, Pelvis"
+75,Intestines & Peritoneum Diseases
+76,Intracranial Injury (excl Skull)
+77,Ischaemic Heart Disease - Acute
+78,Joint/Muscle Sprains
+79,Late Effects of Injury or Poisoning
+80,Malignant Neoplasms - Bone
+81,Malignant Neoplasms - Breast
+82,Malignant Neoplasms - Colon
+83,Malignant Neoplasms - Digestive Organs & Peritoneum
+84,Malignant Neoplasms - Female Reproductory
+85,Malignant Neoplasms - Lymphatic & Haematopoietic
+86,Malignant Neoplasms - Male Reproductory
+87,Malignant Neoplasms - Mouth
+88,Malignant Neoplasms - Respitory & Intrathoracic
+89,Malignant Neoplasms - Stomach
+90,Malignant Neoplasms - Urinary
+91,Malignant Neoplasms - Various
+92,Maternity
+93,Metabolic & Immunity Disorders
+94,Migraine
+95,Multiple Sclerosis
+96,Neoplasms
+97,Neoplasms - Uncertain & Haematopoietic
+98,"Nephritis, Nephrotic Syndrome & Nephrosis"
+99,Nerv/Musculskel Symptons NEC
+100,Nervousness
+101,Neurotic Disorders
+102,Non Psychotic Disorder
+103,Noninfective Enteritis & Colitis
+104,Nutrit/Metab/Devel Symptons
+105,Nutritional Deficiencies
+106,Obstructive Pulmonary Disease and allied conditions (chronic)
+107,"Oesophagus, Stomach & Duodenum, Appendix Diseases"
+108,Open Wound
+109,"Oral Cavity, Salivary Glands & Jaw Diseases"
+110,"Osteopathies,Chrondopathies & Acquired Deformities"
+111,Other Complications of Surgical & Medical Care
+112,Other Conditions of Brain
+113,Other Digestive System Diseases
+114,Other External Causes
+115,Other Nonpsychotis Disorders
+116,Other Organic Psychoses
+117,Other Unspecified Nervous System Disorders
+118,Other Urinary System Diseases
+119,Perinatal Conditions
+120,Peripheral Nervous System Disorders
+121,Personality Disorders
+122,Pneumoconioses & other lung diseases due to external agents
+123,Pneumonia & Influenza
+124,Poisoning
+125,Psychoses (non organic)
+126,Pulmonary Circulation Disease - Acute
+127,Resp Sys/Chest Symptons NEC
+128,Respiratory Failure
+129,Respiratory System Diseases - Other
+130,Retinal Disorders
+131,Rheumatic Fever
+132,Rheumatism (excl back)
+133,Senile & Presenile Organic Psychoses
+134,Sexual Deviations and Disorders
+135,Skin/Integument Symptons
+136,Sleep Disorders
+137,Sudden Death
+138,Superficial Injury
+139,"Symptoms, Signs, Ill-Defined Cond."
+140,Syncope and Collapse
+141,Thyroid disorders
+142,Traumatic Complications
+143,Unknwn Cause Morbity/Mort NEC
+144,Upper Respiratory Tract Diseases (non Acute)
+145,Urinary System Symptons
+146,"Veins, Lymphatics & other Circulatory Diseases (excl Arteries & Capillaries"
